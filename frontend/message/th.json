@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "items": [
+      { "label": "เกี่ยวกับ", "href": "#about" },
+      { "label": "ประสบการณ์", "href": "#experience" },
+      { "label": "ผลงาน", "href": "#projects" },
+      { "label": "ติดต่อ", "href": "#contact" }
+    ],
+    "contact": "ติดต่อ",
+    "language": "ภาษา",
+    "menu": "เมนู",
+    "closeMenu": "ปิดเมนู"
+  },
+  "hero": {
+    "eyebrow": "สวัสดีครับ ผมชื่อ",
+    "title": "Frontend Developer | Aspiring Full Stack Developer",
+    "intro": "พัฒนาเว็บแอปด้วย React, Next.js, TypeScript และ Tailwind CSS พร้อมประสบการณ์ด้าน .NET, Go และการเชื่อมต่อฐานข้อมูล",
+    "primaryCta": "ดูผลงาน",
+    "secondaryCta": "ติดต่อ",
+    "badge": "พอร์ตโฟลิโอ"
+  },
+  "about": {
+    "eyebrow": "เกี่ยวกับ",
+    "title": "งาน Frontend ที่ใส่ใจรายละเอียด พร้อมต่อยอดสู่ Full Stack",
+    "description": "สร้างอินเทอร์เฟซที่ใช้งานง่าย และดูเป็นมืออาชีพ ตอนนี้กำลังพัฒนาทักษะจากงาน frontend ไปสู่ backend และการเชื่อมต่อฐานข้อมูล",
+    "highlights": [
+      { "label": "โฟกัสด้าน Frontend", "value": "3+ ปี" },
+      { "label": "โปรเจกต์ที่ทำ", "value": "10+" },
+      { "label": "สัดส่วนงานที่ถนัด", "value": "FE 80% / BE 20%" }
+    ],
+    "coreValues": [
+      "อินเทอร์เฟซรองรับทุกหน้าจอ",
+      "โครงสร้าง component อ่านง่าย",
+      "มีพื้นฐาน backend และฐานข้อมูล",
+      "คิดจากการใช้งานจริงของผู้ใช้"
+    ]
+  },
+  "experience": {
+    "eyebrow": "ประสบการณ์",
+    "title": "ประสบการณ์ทำงาน",
+    "description": "ภาพรวมประสบการณ์",
+    "items": [
+      {
+        "company": "CRAZYCODE Co., Ltd.",
+        "role": "Frontend Developer",
+        "note": "เริ่มทำงานที่ Pulse Tech Innovation Co., Ltd. ก่อนย้ายทีมไป CRAZYCODE Co., Ltd. โดยยังเป็นหัวหน้าและทีมหลักชุดเดิม"
+      },
+      {
+        "company": "Best Technology Innovation Co., Ltd.",
+        "role": "IT Developer"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "ผลงาน",
+    "title": "ผลงานที่คัดเลือก",
+    "description": "ตัวอย่างโปรเจกต์ที่สะท้อนงาน frontend การเรียนรู้ fullstack และการคิดเชิง product",
+    "items": [
+      {
+        "title": "Morru Website",
+        "description": "พัฒนาและดูแลแพลตฟอร์มด้านสุขภาพ รองรับการนัดหมายแพทย์ การปรึกษาแพทย์ออนไลน์ การชำระเงิน และฟีเจอร์สำหรับผู้ใช้งานจริง",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe Payment", "Responsive", "Cross-browser Compatibility", "SEO", "Codex"]
+      },
+      {
+        "title": "Meeting Web Platform",
+        "description": "พัฒนาและดูแลระบบประชุมออนไลน์ด้วย Zoom Video SDK พร้อม Custom UI รองรับ Telemedicine",
+        "tags": ["Zoom Video SDK", "React", "Tailwind CSS", "Responsive", "Cross-browser Compatibility"]
+      },
+      {
+        "title": "KLD Clinic Website",
+        "description": "พัฒนาและดูแลเว็บไซต์คลินิก รองรับการนัดหมายแพทย์และบทความด้านสุขภาพ",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Responsive", "Cross-browser Compatibility", "SEO"]
+      },
+      {
+        "title": "Pulse Living Website",
+        "description": "พัฒนาและดูแลเว็บไซต์ E-commerce การแสดงสินค้าหลากหลายประเภท, การแสดงประวัติออเดอร์ รวมไปถึงการชำระเงิน",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "2C2P Payment", "Responsive", "Cross-browser Compatibility", "SEO"]
+      },
+      {
+        "title": "Dr. Deyn Website",
+        "description": "พัฒนาและดูแลเว็บไซต์ E-commerce การแสดงสินค้าประเภทงานศิลปะและของสะสมส่วนตัว, การแสดงประวัติออเดอร์ รวมไปถึงการชำระเงิน",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "GB Prime Payment", "Responsive Design", "SEO"]
+      },
+      {
+        "title": "Property Shortlist",
+        "description": "โปรเจกต์สำหรับการศึกษา Full Stack สำหรับจัดการรายการอสังหาริมทรัพย์ พร้อมระบบ Favorite การเชื่อมต่อ API และ Responsive UI",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "API Routes", "Vercel"]
+      },
+      {
+        "title": "Product Showcase",
+        "description": "เว็บไซต์แสดงสินค้า พัฒนาจาก Figma Design เน้น Responsive UI การจัดวางองค์ประกอบ และ Component ที่นำกลับมาใช้ซ้ำได้",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "SEO"]
+      },
+      {
+        "title": "Go REST API Practice",
+        "description": "โปรเจกต์ฝึกพัฒนา REST API ด้วย Golang ครอบคลุม CRUD, Middleware, Service Layer และการเชื่อมต่อฐานข้อมูล",
+        "tags": ["Go", "REST API", "SQL", "Postman"]
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "ติดต่อ",
+    "title": "มาร่วมงานกันครับ",
+    "description": "ถ้ามีโปรเจกต์ในใจหรืออยากพูดคุย สามารถส่งข้อความมาได้เลยครับ",
+    "fields": {
+      "name": "ชื่อของคุณ",
+      "email": "อีเมล",
+      "subject": "หัวข้อ",
+      "message": "ข้อความ"
+    },
+    "submit": "ส่งข้อความ"
+  },
+  "footer": {
+    "rights": "สงวนลิขสิทธิ์"
+  }
+}
