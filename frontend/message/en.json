@@ -108,7 +108,10 @@
       "subject": "Subject",
       "message": "Message"
     },
-    "submit": "Send Message"
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully. Thank you for reaching out.",
+    "error": "Something went wrong. Please try again."
   },
   "footer": {
     "rights": "All rights reserved."
