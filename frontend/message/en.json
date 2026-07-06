@@ -1,0 +1,119 @@
+{
+  "nav": {
+    "items": [
+      { "label": "About", "href": "#about" },
+      { "label": "Experience", "href": "#experience" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "contact": "Contact",
+    "language": "Language",
+    "menu": "Menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Hello, I'm",
+    "title": "Frontend Developer | Aspiring Full Stack Developer",
+    "intro": "I build responsive web applications with React, Next.js, TypeScript, and Tailwind CSS, with backend exposure in .NET and database integration.",
+    "primaryCta": "View My Work",
+    "secondaryCta": "Contact Me",
+    "badge": "Portfolio"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Frontend craft with fullstack curiosity.",
+    "description": "I enjoy building interfaces that feel calm, clear, and practical. My current direction is growing from frontend delivery into stronger backend and database integration.",
+    "highlights": [
+      { "label": "Frontend Focus", "value": "3+ years" },
+      { "label": "Projects Built", "value": "10+" },
+      { "label": "Focus Balance", "value": "FE 80% / BE 20%" }
+    ],
+    "coreValues": [
+      "Responsive interfaces",
+      "Clean component structure",
+      "Backend and database exposure",
+      "Practical product thinking"
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Work experience",
+    "description": "A concise view of my frontend and IT developer background.",
+    "items": [
+      {
+        "company": "CRAZYCODE Co., Ltd.",
+        "role": "Frontend Developer",
+        "note": "Started at Pulse Tech Innovation Co., Ltd. and transferred to CRAZYCODE Co., Ltd. with the same lead and core team."
+      },
+      {
+        "company": "Best Technology Innovation Co., Ltd.",
+        "role": "IT Developer"
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work",
+    "description": "A simple collection of projects that show frontend delivery, fullstack learning, and practical product thinking.",
+    "items": [
+      {
+        "title": "Morru Website",
+        "description": "Developed and maintained a healthcare platform supporting doctor appointments, online consultations, payments, and real user-facing features.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe Payment", "Responsive", "Cross-browser Compatibility", "SEO", "Codex"]
+      },
+      {
+        "title": "Meeting Web Platform",
+        "description": "Developed and maintained an online meeting platform with Zoom Video SDK and custom UI for telemedicine.",
+        "tags": ["Zoom Video SDK", "React", "Tailwind CSS", "Responsive", "Cross-browser Compatibility"]
+      },
+      {
+        "title": "KLD Clinic Website",
+        "description": "Developed and maintained a clinic website supporting doctor appointments and healthcare articles.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "Responsive", "Cross-browser Compatibility", "SEO"]
+      },
+      {
+        "title": "Pulse Living Website",
+        "description": "Developed and maintained an e-commerce website with product listings across multiple categories, order history, and payment flows.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "2C2P Payment", "Responsive", "Cross-browser Compatibility", "SEO"]
+      },
+      {
+        "title": "Dr. Deyn Website",
+        "description": "Developed and maintained an e-commerce website for artwork and personal collectibles, including order history and payment flows.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "GB Prime Payment", "Responsive Design", "SEO"]
+      },
+      {
+        "title": "Property Shortlist",
+        "description": "Full stack learning project for managing property listings with favorite features, API integration, and responsive UI.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "API Routes", "Vercel"]
+      },
+      {
+        "title": "Product Showcase",
+        "description": "Product showcase website developed from a Figma design, focused on responsive UI, layout composition, and reusable components.",
+        "tags": ["Next.js", "TypeScript", "Tailwind CSS", "SEO"]
+      },
+      {
+        "title": "Go REST API Practice",
+        "description": "Practice project for building REST APIs with Golang, covering CRUD, middleware, service layer, and database connection.",
+        "tags": ["Go", "REST API", "SQL", "Postman"]
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's work together.",
+    "description": "Have a project in mind or want to say hello? Send a message and I will get back to you.",
+    "fields": {
+      "name": "Your name",
+      "email": "Email address",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully. Thank you for reaching out.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
