@@ -13,7 +13,11 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend", policy =>
     {
         policy
-            .WithOrigins("http://localhost:3000", "http://localhost:3001")
+            .WithOrigins(
+            "http://localhost:3000",
+            "http://localhost:3001",
+            "https://next-net-portfolio-vercel.vercel.app"
+            )
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
