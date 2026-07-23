@@ -23,6 +23,7 @@ export const skills: Skill[] = [
   { name: "CSS", icon: FaCss3Alt },
   { name: "JavaScript", icon: FaJs },
   { name: "React", icon: SiReact },
+  { name: "React Native", icon: SiReact },
   { name: "Next.js", icon: SiNextdotjs },
   { name: "TypeScript", icon: SiTypescript },
   { name: "Tailwind CSS", icon: SiTailwindcss },
